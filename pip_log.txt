@@ -1,0 +1,13 @@
+2024-11-29T11:42:21,017 Using pip 24.3.1 from D:\Project_ML\myenv\Lib\site-packages\pip (python 3.11)
+2024-11-29T11:42:21,023 Non-user install because user site-packages disabled
+2024-11-29T11:42:21,070 Created temporary directory: C:\Users\lenovo\AppData\Local\Temp\pip-build-tracker-a2isqg4g
+2024-11-29T11:42:21,070 Initialized build tracking at C:\Users\lenovo\AppData\Local\Temp\pip-build-tracker-a2isqg4g
+2024-11-29T11:42:21,070 Created build tracker: C:\Users\lenovo\AppData\Local\Temp\pip-build-tracker-a2isqg4g
+2024-11-29T11:42:21,070 Entered build tracker: C:\Users\lenovo\AppData\Local\Temp\pip-build-tracker-a2isqg4g
+2024-11-29T11:42:21,070 Created temporary directory: C:\Users\lenovo\AppData\Local\Temp\pip-install-d31k72np
+2024-11-29T11:42:21,070 Created temporary directory: C:\Users\lenovo\AppData\Local\Temp\pip-ephem-wheel-cache-7hwhzf8l
+2024-11-29T11:42:21,078 Created temporary directory: C:\Users\lenovo\AppData\Local\Temp\pip-unpack-cx54lueq
+2024-11-29T11:42:21,126 Remote version of pip: 24.3.1
+2024-11-29T11:42:21,126 Local version of pip:  24.3.1
+2024-11-29T11:42:21,132 Was pip installed by pip? True
+2024-11-29T11:42:21,134 Removed build tracker: 'C:\\Users\\lenovo\\AppData\\Local\\Temp\\pip-build-tracker-a2isqg4g'
